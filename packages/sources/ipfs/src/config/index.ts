@@ -3,7 +3,7 @@ import { Requester } from '@chainlink/ea-bootstrap'
 
 export const NAME = 'IPFS'
 export const DEFAULT_ENDPOINT = 'read'
-export const DEFAULT_API_URL = 'http://127.0.0.1:5001'
+export const DEFAULT_API_URL = 'https://mithrilverse.infura-ipfs.io/ipfs/'
 
 export const makeConfig = (prefix?: string): Config => {
   const config = Requester.getDefaultConfig(prefix)

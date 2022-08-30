@@ -4,9 +4,9 @@ An adapter to read and write data from IPFS
 
 ### Environment Variables
 
-| Required? |     Name     |                Description                | Options |       Defaults to       |
-| :-------: | :----------: | :---------------------------------------: | :-----: | :---------------------: |
-|           | API_ENDPOINT | The URL for your IPFS node's API endpoint |         | `http://127.0.0.1:5001` |
+| Required? |     Name     |                Description                | Options |                 Defaults to                 |
+| :-------: | :----------: | :---------------------------------------: | :-----: | :-----------------------------------------: |
+|           | API_ENDPOINT | The URL for your IPFS node's API endpoint |         | `https://mithrilverse.infura-ipfs.io/ipfs/` |
 
 ---
 
